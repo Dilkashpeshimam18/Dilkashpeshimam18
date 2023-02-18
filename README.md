@@ -29,5 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilkashpeshimam18&" alt="dilkashpeshimam18" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilkashpeshimam18&show_icons=true&locale=en" alt="dilkashpeshimam18" /></p>
 
