@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking to collaborate on **open source project using React.**
 
-- ⚡ I’m skilled in **React JS, Typescript, Redux, React Context API, Firebase, Web3.js, Javascript, ES6/ES7, Html5, Css3, Material UI, Bootstrap & Tailwind CSS.**
+- ⚡ I’m skilled in **React JS, Typescript, Redux, React Context API, Firebase, Web3.js, Javascript, ES6/ES7, Html5, Css3, Node, Material UI, Bootstrap & Tailwind CSS.**
 
 - 🔥 Interested in learning **Blockchain Technology.**
 
