@@ -23,3 +23,11 @@
 <a href="https://www.leetcode.com/dilkashpeshimam" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="dilkashpeshimam" height="40" width="40" /></a>
 <a href='https://github.com/Dilkashpeshimam18' target='blank'><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Dilkashpeshimam18" height="40" width="40" /></a>
 </p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilkashpeshimam18&show_icons=true&locale=en&layout=compact" alt="dilkashpeshimam18" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilkashpeshimam18&show_icons=true&locale=en" alt="dilkashpeshimam18" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilkashpeshimam18&" alt="dilkashpeshimam18" /></p>
