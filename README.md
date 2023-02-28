@@ -9,7 +9,7 @@
 
 - ⚡ I’m skilled in **React JS, Typescript, Redux, React Context API, Firebase, Web3.js, Javascript, ES6/ES7, Html5, Css3, Material UI, Bootstrap & Tailwind CSS.**
 
-- 🔥 Interested in learning **Blockchain Technology.**
+- 🔥 Interested in  **Blockchain Technology.**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-nextjs-blond.vercel.app/](https://personal-portfolio-nextjs-blond.vercel.app/)
 
