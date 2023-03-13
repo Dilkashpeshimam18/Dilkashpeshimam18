@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Frontend Development & DSA.**
 
-- 🌱 I’m currently learning **Next JS & Node JS.**
+- 🌱 I’m currently learning **Backend Developement.**
 
 - 🤝 I’m looking to collaborate on **open source project.**
 
