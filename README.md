@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilkash Peshimam</h1>
 <h3 align="center">A passionate & enthusiastic frontend developer🎯</h3>
 
-- 🔭 I’m currently working on Expenso Backend using Node JS ****
+- 🔭 I’m currently working on Expenso Backend using Node JS
 
 - 🌱 I’m currently learning **Next JS & Node JS.**
 
