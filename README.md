@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on Expenso Backend using Node JS
 
-- 🌱 I’m currently learning **Next JS & Node JS.**
+- 🌱 I’m currently learning **Next JS.**
 
 - 🤝 I’m looking to collaborate on **open source project.**
 
-- ⚡ I’m skilled in **React JS, Typescript, Node JS, Express JS, Redux, React Context API, Firebase, Web3.js, Javascript, ES6/ES7, HTML5, CSS3, Material UI, Bootstrap & Tailwind CSS.**
+- ⚡ I’m skilled in **React JS, Typescript, Node JS, Express JS, AWS, MY SQL, MongoDB, Redux, React Context API, Firebase, JWT, Sequelize, Web3.js, Javascript, ES6/ES7, HTML5, CSS3, Material UI**
 
 - 🔥 Interested in  **Blockchain Technology.**
 
