@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking to collaborate on **open source project.**
 
-- ⚡ I’m skilled in **React JS, Typescript, Node JS, Express JS, AWS, MY SQL, MongoDB, Redux, React Context API, Firebase, JWT, Sequelize, Web3.js, Javascript, ES6/ES7, HTML5, CSS3, Material UI**
+- ⚡ I’m skilled in **React JS, Typescript, Node JS, Express JS, AWS, MY SQL, MongoDB, Redux, React Context API, Firebase, JWT, Sequelize, Mongoose, Web3.js, Javascript, ES6/ES7, HTML5, CSS3, Material UI**
 
 - 🔥 Interested in  **Blockchain Technology.**
 
