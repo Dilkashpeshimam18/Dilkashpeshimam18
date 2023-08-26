@@ -2,7 +2,7 @@
 <h3 align="center">A passionate & enthusiastic Fullstack Developer🎯</h3>
 
 
-- 🌱 I’m currently learning **Solidity & Blockachain.**
+- 🌱 I’m currently learning **Solidity & Blockchain.**
 
 - 🤝 I’m looking to collaborate on **open source project.**
 
