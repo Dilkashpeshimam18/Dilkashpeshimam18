@@ -10,9 +10,7 @@
 
 - 🔥 Interested in  **Blockchain Technology.**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-nextjs-blond.vercel.app/](https://personal-portfolio-nextjs-blond.vercel.app/)
-
-- 📄 Know about my experiences [https://personal-portfolio-nextjs-blond.vercel.app/DilkashResume%20.pdf](https://personal-portfolio-nextjs-blond.vercel.app/DilkashResume%20.pdf)
+- 📄 Know about my experiences file:///C:/Users/admin/Downloads/Dilkash's%20Resume.pdf
 
 - 📫 How to reach me **dilkashpeshimam@gmail.com**
 
