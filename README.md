@@ -10,8 +10,6 @@
 
 - 🔥 Interested in  **Blockchain Technology.**
 
-- 📄 Know about my experiences file:///C:/Users/admin/Downloads/Dilkash's%20Resume.pdf
-
 - 📫 How to reach me **dilkashpeshimam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
