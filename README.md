@@ -8,8 +8,6 @@
 
 - ⚡ I’m skilled in **React JS, Typescript, Node JS, Express JS, AWS, MY SQL, MongoDB, Redux, React Context API, Firebase, JWT, Sequelize, Mongoose, Web3.js, Javascript, ES6/ES7, HTML5, CSS3, Material UI**
 
-- 🔥 Interested in  **Blockchain Technology.**
-
 - 📫 How to reach me **dilkashpeshimam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
