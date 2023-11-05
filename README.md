@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilkash Peshimam</h1>
-<h3 align="center">A passionate & enthusiastic Fullstack & Web3 Developer🎯</h3>
+<h3 align="center">A passionate & enthusiastic Fullstack Developer🎯</h3>
 
 
 - 🌱 I’m currently learning **Solidity & Blockchain.**
