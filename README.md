@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking to collaborate on **open source project.**
 
-- ⚡ I’m skilled in **React JS,Next.js, Typescript, Node JS, Express JS, AWS, MY SQL, MongoDB, Redux, , Firebase, JWT, Sequelize, Mongoose,Solidity, Web3.js, Blockchain, Javascript, ES6/ES7, HTML5, CSS3, Material UI**
+- ⚡ I’m skilled in **React JS,Next.js, Typescript, Node JS, Express JS, AWS, MY SQL, MongoDB, Redux, Firebase, JWT, Sequelize, Mongoose, Solidity, Web3.js, Blockchain, Javascript, ES6/ES7, HTML5, CSS3, Material UI**
 
 - 📫 How to reach me **dilkashpeshimam@gmail.com**
 
