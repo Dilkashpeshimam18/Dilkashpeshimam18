@@ -2,11 +2,11 @@
 <h3 align="center">A passionate & enthusiastic Fullstack Developer🎯</h3>
 
 
-- 🌱 I’m currently learning **Solidity & Blockchain.**
+- 🌱 Interested in Blockchain Technology**
 
 - 🤝 I’m looking to collaborate on **open source project.**
 
-- ⚡ I’m skilled in **React JS, Typescript, Node JS, Express JS, AWS, MY SQL, MongoDB, Redux, React Context API, Firebase, JWT, Sequelize, Mongoose, Web3.js, Javascript, ES6/ES7, HTML5, CSS3, Material UI**
+- ⚡ I’m skilled in **React JS,Next.js, Typescript, Node JS, Express JS, AWS, MY SQL, MongoDB, Redux, , Firebase, JWT, Sequelize, Mongoose,Solidity, Web3.js, Blockchain, Javascript, ES6/ES7, HTML5, CSS3, Material UI**
 
 - 📫 How to reach me **dilkashpeshimam@gmail.com**
 
