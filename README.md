@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking to connect and collaborate with passionate developers, founders, & builders who are eager to create amazing products in Web2 and Web3 space. 
 
-- ⚡ Skilled in **React JS,Next.js, Typescript, Node JS, Express JS, AWS, MY SQL, MongoDB, Redux, Firebase, Solidity, Web3.js,Ether.js, DeFi, DAOs, NFTs, Dapps, Blockchain, Javascript,, HTML5, CSS3, Material UI**
+- ⚡ Skilled in **React JS,Next.js, Typescript, Node JS, Express JS, AWS, SQL, MongoDB, Redux, Firebase, Solidity, Web3.js,Ether.js, DeFi, DAOs, NFTs, Dapps, Truffle, Hardhat, Blockchain, Javascript, HTML5, CSS3, Material UI**
 
 - 📫 How to reach me **dilkashpeshimam@gmail.com**
 
