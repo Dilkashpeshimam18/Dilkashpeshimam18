@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Dilkash Peshimam</h1>
-<h3 align="center">A passionate & enthusiastic Fullstack Developer & Web3 Developer🎯</h3>
+<h3 align="center">A passionate & enthusiastic Fullstack Developer & a Blockchain Developer🎯</h3>
 
 
-- 🌱 Interested in Blockchain Technology**
+- 🌱 Blockchain x Web**
 
 - 🤝 I’m looking to collaborate on **open source project.**
 
-- ⚡ I’m skilled in **React JS,Next.js, Typescript, Node JS, Express JS, AWS, MY SQL, MongoDB, Redux, Firebase, JWT, Sequelize, Mongoose, Solidity, Web3.js, Blockchain, Javascript, ES6/ES7, HTML5, CSS3, Material UI**
+- ⚡ I’m skilled in **React JS,Next.js, Typescript, Node JS, Express JS, AWS, MY SQL, MongoDB, Redux, Firebase, Solidity, Web3.js,Ether.js, DeFi, DAOs, NFTs, Dapps, Blockchain, Javascript,, HTML5, CSS3, Material UI**
 
 - 📫 How to reach me **dilkashpeshimam@gmail.com**
+
+Let's build something amazing together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
