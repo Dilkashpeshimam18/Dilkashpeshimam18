@@ -4,7 +4,7 @@
 
 - 🌱 Blockchain x Web
 
-- 🤝 I’m looking to connect and collaborate with passionate developers, founders, & people who are eager to create amazing products in Web2 and Web3 space. 
+- 🤝 I’m looking to connect and collaborate with passionate developers, founders, & builders who are eager to create amazing products in Web2 and Web3 space. 
 
 - ⚡ I’m skilled in **React JS,Next.js, Typescript, Node JS, Express JS, AWS, MY SQL, MongoDB, Redux, Firebase, Solidity, Web3.js,Ether.js, DeFi, DAOs, NFTs, Dapps, Blockchain, Javascript,, HTML5, CSS3, Material UI**
 
