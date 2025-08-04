@@ -2,7 +2,7 @@
 <h3 align="center">A passionate & enthusiastic Fullstack Developer & a Blockchain Developer🎯</h3>
 
 
-- 🌱 Talk about Crypto, DeFi, DAOs, NFTs, Development & AI
+- 🌱 Talk about Crypto, DeFi, DAOs, NFTs, Development, Ideas, Opportunities & AI
 
 - 🤝 I’m looking to connect and collaborate with passionate developers, founders, & builders who are eager to create amazing products in Web2 and Web3 space. 
 
